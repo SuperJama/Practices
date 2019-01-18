@@ -1,2 +1,4 @@
 # Practices
-Just for practice
+Just for practice!
+I want to study Ai!
+I also want to learn physical!
